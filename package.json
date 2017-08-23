@@ -4,7 +4,18 @@
   "description": "portfolio website",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "bs": "browser-sync start --config bs-config.js"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "*",
+    "mongodb": "*",
+    "random-word": "*",
+    "valid-url": "*"
+  },
+  "engines": {
+    "node": "8.x"
   },
   "repository": {
     "type": "git",
