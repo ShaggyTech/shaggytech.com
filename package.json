@@ -1,0 +1,19 @@
+{
+  "name": "shaggytech.com",
+  "version": "0.0.1",
+  "description": "portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaggyTech/shaggytech.com.git"
+  },
+  "author": "Brandon Eichler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaggyTech/shaggytech.com/issues"
+  },
+  "homepage": "https://github.com/ShaggyTech/shaggytech.com#readme"
+}
